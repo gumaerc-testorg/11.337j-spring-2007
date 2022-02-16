@@ -4,8 +4,13 @@ description: This exercise is intended to have you focus on the generation and d
   of information as a tool of government action. It asks you to provide a concise
   account of examples of its use by government to achieve an urban design policy (or
   another policy of your choice).
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-337j-urban-design-policy-and-action-spring-2007/7bf4194a5dece4551c6667ec2bb856b0_exercise5.pdf
+file: /media/courses/11-337j-urban-design-policy-and-action-spring-2007/7bf4194a5dece4551c6667ec2bb856b0_exercise5.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: 'Exercise #5: Information: An Example'
 uid: 7bf4194a-5dec-e455-1c66-67ec2bb856b0
