@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #4: Incentives and Disincentives'
 uid: 2460a7da-d9f8-0897-a522-4f749a039806

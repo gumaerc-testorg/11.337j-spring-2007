@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #1: Thinking about Ownership and Operation: An Example'
 uid: c8cdf324-0c5e-2770-a6e8-fcbb641d64ce

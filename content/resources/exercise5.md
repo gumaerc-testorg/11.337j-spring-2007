@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #5: Information: An Example'
 uid: 7bf4194a-5dec-e455-1c66-67ec2bb856b0

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: e1a79b4c-57e4-cdfb-c991-5e8ef3634d83
 resourcetype: Document
 title: 'Appendix: Additional References'
 uid: 2c21a31b-6d6d-2666-a4c1-8607683fd295

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 resourcetype: Document
 title: 'Exercise #3: Property Rights: An Example'
 uid: e855a60f-57c6-884e-98a7-247dfd7105de
