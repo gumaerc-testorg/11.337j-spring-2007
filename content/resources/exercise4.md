@@ -6,6 +6,7 @@ file: /courses/11-337j-urban-design-policy-and-action-spring-2007/2460a7dad9f808
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Exercise #4: Incentives and Disincentives'
 uid: 2460a7da-d9f8-0897-a522-4f749a039806
 ---
 Problem set on on the use of incentives (and disincentives) as tools of government action.
-
