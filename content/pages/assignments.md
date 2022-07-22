@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section contains assignments used in the 2005 and 2006 versions
+  of the course, including five short assignments and a final paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: db9ba313-cb4f-8a15-84a2-7a4d2b518a46
 ---
@@ -34,7 +39,7 @@ FILES
 Ownership and operation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exercise1))
+({{% resource_link c8cdf324-0c5e-2770-a6e8-fcbb641d64ce "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -43,7 +48,7 @@ Ownership and operation
 Regulation
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exercise2))
+({{% resource_link 6706fb52-811c-a317-d1f1-49376fc19e59 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Regulation
 Property rights
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exercise3))
+({{% resource_link e855a60f-57c6-884e-98a7-247dfd7105de "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -61,7 +66,7 @@ Property rights
 Incentives and disincentives
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exercise4))
+({{% resource_link 2460a7da-d9f8-0897-a522-4f749a039806 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Incentives and disincentives
 Information
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/exercise5))
+({{% resource_link 7bf4194a-5dec-e455-1c66-67ec2bb856b0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -85,7 +90,7 @@ Information
 Paper description
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/final_paper))
+({{% resource_link 1954ed11-08a6-0bb1-2377-a238bb90648b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the required text and other texts.
+  It also includes a list of required and supplementary reading assignments.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e1a79b4c-57e4-cdfb-c991-5e8ef3634d83
 ---
@@ -519,4 +524,4 @@ Ducker, Richard, and David Owens. "A Smart Growth Toolbox for Local Governments.
 
 {{< tableclose >}}
 
-{{< anchor "Appendix" >}}{{< /anchor >}}Appendix: Additional References ([PDF]({{< baseurl >}}/resources/appendix))
+{{< anchor "Appendix" >}}{{< /anchor >}}Appendix: Additional References ({{% resource_link 2c21a31b-6d6d-2666-a4c1-8607683fd295 "PDF" %}})

@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This syllabus section provides the course overview and information on
+  course meeting times and grading.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 94093544-96b0-accb-bf6a-ac57ac041ec0
 ---
@@ -26,7 +30,7 @@ Governments at every level assume a measure of responsibility for seeking good d
 
 Our exploration will be structured in two parts. In Part I we will seek to develop the elements of a theory of government intervention vis-à-vis design. We will begin by thinking about just what an urban design policy is and why government intervention is appropriate to pursue such a policy. Then we will turn to a consideration of the generic modes of government intervention and how they are, or might be, used to affect the quality of urban design.
 
-We will argue that, despite a proliferation of government programs addressing design issues, there are only five different generic modes of government intervention. If one can map the underlying properties of these modes of intervention, one can get considerable leverage on the appropriate use of government intervention to affect design. This portion of the course relies heavily on the "Tools of Government" literature, and we will draw broadly on that literature as well as on related materials linked more specifically to urban design. (A list of the main texts in this literature is offered as an appendix in the [Readings]({{< baseurl >}}/pages/readings) section.)
+We will argue that, despite a proliferation of government programs addressing design issues, there are only five different generic modes of government intervention. If one can map the underlying properties of these modes of intervention, one can get considerable leverage on the appropriate use of government intervention to affect design. This portion of the course relies heavily on the "Tools of Government" literature, and we will draw broadly on that literature as well as on related materials linked more specifically to urban design. (A list of the main texts in this literature is offered as an appendix in the {{% resource_link e1a79b4c-57e4-cdfb-c991-5e8ef3634d83 "Readings" %}} section.)
 
 Part II will be loosely structured around two case studies plus a field trip through which we will be able to explore these themes in more depth.
 
