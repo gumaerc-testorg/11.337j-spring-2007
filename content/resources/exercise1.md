@@ -4,7 +4,7 @@ description: This exercise is intended to get you to think about the tool owners
   and operation by providing a concise account of an example of its use by government
   to achieve an urban design policy. The exercise is to be done while you are doing
   the reading and before the classroom discussion on this tool.
-file: /ol-ocw-studio-app/courses/11-337j-urban-design-policy-and-action-spring-2007/c8cdf3240c5e2770a6e8fcbb641d64ce_exercise1.pdf
+file: /courses/11-337j-urban-design-policy-and-action-spring-2007/c8cdf3240c5e2770a6e8fcbb641d64ce_exercise1.pdf
 file_size: 55915
 file_type: application/pdf
 learning_resource_types:
