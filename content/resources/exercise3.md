@@ -3,7 +3,7 @@ content_type: resource
 description: Assignment on the allocation and enforcement of property rights as a
   tool of government action. It asks you to provide a concise account of examples
   of the use of property rights by government to achieve an urban design policy.
-file: /courses/11-337j-urban-design-policy-and-action-spring-2007/e855a60f57c6884e98a7247dfd7105de_exercise3.pdf
+file: /ol-ocw-studio-app/courses/11-337j-urban-design-policy-and-action-spring-2007/e855a60f57c6884e98a7247dfd7105de_exercise3.pdf
 file_size: 60310
 file_type: application/pdf
 learning_resource_types:
