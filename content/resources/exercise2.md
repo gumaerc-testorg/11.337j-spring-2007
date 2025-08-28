@@ -3,7 +3,7 @@ content_type: resource
 description: This exercise asks you to focus on the tool of regulation. You are asked
   to provide several examples of the use of regulation by government to achieve an
   urban design policy.
-file: /courses/11-337j-urban-design-policy-and-action-spring-2007/6706fb52811ca317d1f149376fc19e59_exercise2.pdf
+file: /ol-ocw-studio-app/courses/11-337j-urban-design-policy-and-action-spring-2007/6706fb52811ca317d1f149376fc19e59_exercise2.pdf
 file_size: 59663
 file_type: application/pdf
 learning_resource_types:
