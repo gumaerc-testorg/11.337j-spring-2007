@@ -455,7 +455,7 @@ Field trip to Boston Civic Design Commission meeting
 
 ### Required
 
-For further information on the Boston Civic Design Commission, see: [BCDC](http://www.bostonplans.org/planning/urban-design/boston-civic-design-commission).
+For further information on the Boston Civic Design Commission, see: {{% resource_link "96ab7570-b8a8-46dd-9ea5-2a61365c6110" "BCDC" %}}.
 
 
 {{< tdclose >}}
@@ -481,7 +481,7 @@ Scheer, Brenda. "The Debate on Design Review." From _Design Review: Challenging 
 
 Rawn, William. "The Boston Federal Courthouse: The Role of the Boston Civic Design Commission." In _Federal Buildings in Context: The Role of Design Review_. Edited by J. Carter Brown. Washington, DC: National Gallery of Art, 1995, pp. 95-104. ISBN: 9780300076981.
 
-Look at the following Web site: [Design Review Panel Pilot Project](http://www.toronto.ca/planning/designsymposium.htm).
+Look at the following Web site: {{% resource_link "747705d6-9312-4bec-a7db-3fd4b81c5f22" "Design Review Panel Pilot Project" %}}.
 
 ### Supplementary
 
